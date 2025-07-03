@@ -15,7 +15,7 @@ Split multiple consequences into separate fields
 4_filter_af_sv.sh  
 Keeps variants that have an allele frequency < 0.01 or missing in gnomAD
 
-5_optional_filter_genes_sv.sh
+5_optional_filter_genes_sv.sh  
 Filters to keep variants in or near to CDH1 CTNNA1 or genes physically interacting with them
 
 6_both_sibling_sv.sh  
