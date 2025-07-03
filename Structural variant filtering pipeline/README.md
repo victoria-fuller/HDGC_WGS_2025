@@ -21,7 +21,7 @@ Filters to keep variants in or near to CDH1 CTNNA1 or genes physically interacti
 6_both_sibling_sv.sh  
 Removes variants with missing genotypes (./.) or homozyogus reference for the proband and both siblings
 
-7_filter_high_moderate_impact_sv.sh
+7_filter_high_moderate_impact_sv.sh  
 Filters to remove variants that are not high or moderate impact
 
 8_sv_vcf_to_tsv.sh  
