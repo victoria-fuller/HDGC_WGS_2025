@@ -24,5 +24,11 @@ Removes variants with missing genotypes (./.) or homozyogus reference for the pr
 7_filter_high_moderate_impact_sv.sh  
 Filters to remove variants that are not high or moderate impact
 
-8_sv_vcf_to_tsv.sh  
+8_filter_deletion_sv.sh  
+Filters to keep only deletions
+
+9_protein_coding_sv.sh  
+Filters to keep only protein coding biotype
+
+10_sv_vcf_to_tsv.sh  
 Converts the filtered VCF file to a TSV file
