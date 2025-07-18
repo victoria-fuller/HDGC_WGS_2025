@@ -1,7 +1,7 @@
 # HDGC_WGS_2025
 Analysis of whole genome sequencing data from a family with unsolved hereditary diffuse gastric cancer
 
-# Abstract
+# Study Abstract
 **Background**  
 Hereditary diffuse gastric cancer exhibits a significant genetic predisposition, with CDH1 identified as the major susceptibility gene. Germline pathogenic variants in CDH1 are found in approximately 40% of HDGC families and guide clinical management. Families without this variant may encounter difficulties making informed clinical decisions regarding surveillance and surgery. This study aimed to suggest new potential candidate genes that may predispose to HDGC in the absence of a pathogenic CDH1 or CTNNA1 variant.  
 **Methods**   
