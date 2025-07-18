@@ -1,5 +1,7 @@
 # HDGC_WGS_2025
-Analysis of whole genome sequencing data from a family with unsolved hereditary diffuse gastric cancer
+Analysis of whole genome sequencing data from a family with unsolved hereditary diffuse gastric cancer.  
+Includes filtering pipelines for short variants (shorter than 50 base pairs), structural variants and copy number variants.  
+Also includes MultiQC html report. 
 
 # Study Abstract
 **Background**  
