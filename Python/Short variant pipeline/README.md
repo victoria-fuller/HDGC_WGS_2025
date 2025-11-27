@@ -1,4 +1,4 @@
-# Structural variant pipeline
+# Short variant pipeline
 ## Scripts used:
 [`WGS_HDGC_SNV_pipeline.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/WGS_HDGC_SNV_pipeline.py) : Retreives file path from output file to automate filtering pipeline with optional scripts  
   
