@@ -18,7 +18,7 @@ The results from this study suggest an involvement of DNA damage repair genes in
 
 # Pipelines
 ## Python
-1. Short variant filtering pipeline
+1. Short variant filtering pipeline  
 *Note: short variants were defined as shorter than 50bp*
 2. Structural variant filtering pipeline
 3. Copy number variant filtering pipeline
