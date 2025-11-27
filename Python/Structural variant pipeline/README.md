@@ -25,6 +25,7 @@
 [`vcf_to_tsv.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/vcf_to_tsv.py) : Converts filtered VCF file to a TSV file
 
 # Additional files
-[`hdgc_gene_list.txt`]
+[`hdgc_gene_list.txt`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/hdgc_gene_list.txt) : Gene list used to filter for genes of interest  
+*Note: Can change this list to filter for alternative genes*
 
-[`biomart_export.txt`]
+[`biomart_export.txt`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/biomart_export.txt) : BioMart export file used to generate BED files for gene filtering
