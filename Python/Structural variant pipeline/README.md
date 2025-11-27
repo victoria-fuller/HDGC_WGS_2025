@@ -10,7 +10,7 @@
 
 [`filter_af.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/filter_af.py) : Filters to keep variants that have an allele frequency < 0.01 or missing in gnomAD  
 
-[`filter_genes.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/filter_genes.py) : Filters to keep variants in or near to genes of interest or genes physically interacting with them (in this case *CDH1* or *CTNNA1*).    
+[`filter_genes.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/filter_genes.py) : Filters to keep variants in or near to genes of interest or genes physically interacting with them    
 
 [`filter_high_moderate.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/filter_high_moderate.py) : Filters to keep variants that are high or moderate impact as predicted by Ensembl VEP    
 
@@ -24,3 +24,7 @@
 
 [`vcf_to_tsv.py`](https://github.com/victoria-fuller/HDGC_WGS_2025/blob/main/Python/Structural%20variant%20pipeline/vcf_to_tsv.py) : Converts filtered VCF file to a TSV file
 
+# Additional files
+[`hdgc_gene_list.txt`]
+
+[`biomart_export.txt`]
